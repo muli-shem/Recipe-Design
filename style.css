@@ -1,0 +1,58 @@
+body{
+    background-color:bisque;
+    margin-left : 25%;
+    margin-right: 25%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+
+    
+}
+img{
+    display: block;
+    width: 100%;
+    height:auto;
+}
+.pic{
+    height: 200px;
+    border-radius: 1rem;
+    overflow: hidden;
+}
+.container{
+   background-color: white;
+   padding: 2rem;
+   border-radius: 1rem;
+    /* max-height: 130; */
+    
+}
+.attribution{
+    font-family: serif;
+    text-align:center;
+}
+.Title{
+text-align: center;
+
+
+}
+.derscription{
+
+}
+.Preparation{
+    border-radius: 1rem;
+    overflow: hidden;
+    background-color:bisque;
+}
+
+.Ingredients{
+    width: 100;
+}
+Table
+tr,
+td{
+    border-collapse: collapse;
+   border-bottom: solid;
+
+
+}
+table {
+     width: 100%;
+}
